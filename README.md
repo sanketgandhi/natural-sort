@@ -1,1 +1,1 @@
-# natural-sort
+# natural-sort-js
