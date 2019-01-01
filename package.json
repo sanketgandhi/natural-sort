@@ -1,5 +1,5 @@
 {
-  "name": "natural-sort",
+  "name": "natural-sort-js",
   "version": "1.0.0",
   "description": "Javascript Natural Sort",
   "main": "src/index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sanketgandhi/natural-sort.git"
+    "url": "git+https://github.com/sanketgandhi/natural-sort-js.git"
   },
   "keywords": [
     "javascript",
@@ -18,7 +18,7 @@
   "author": "Sanket Gandhi <sanketgandhi876@gmail.com> (https://sanketgandhi.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sanketgandhi/natural-sort/issues"
+    "url": "https://github.com/sanketgandhi/natural-sort-js/issues"
   },
-  "homepage": "https://github.com/sanketgandhi/natural-sort#readme"
+  "homepage": "https://github.com/sanketgandhi/natural-sort-js#readme"
 }
